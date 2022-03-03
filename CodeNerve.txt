@@ -1,5 +1,5 @@
 <span id="a">guest@markusp</span>:<span id="b">~</span><span id="c">$</span> cd home/markusp/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
-<span id="a">guest@markusp</span>:<span id="b">~</span><span id="c">$</span> ls <!-- kjsdfhkjdhsfkjdshfkj --><br/>
+<span id="a">guest@markusp</span>:<span id="b">~</span><span id="c">$</span> ls
 info.txt
 <span id="a">guest@markusp</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->info.txt<br/><br/>
 Can't open use sudo
@@ -7,12 +7,10 @@ Can't open use sudo
 <span id="a">sudo@markusp</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->info.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
-Hey There! That my Website<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Ye idk what should i say?</p>
-<p>Welcome to my hell</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here.<a href="link"> portfolio</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+Hey There! That's my Website<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Ye idk what should i say?</p>
+<p> User: Markus P. Level: 14 </a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p> My profiles:<br> <a href="https://www.instagram.com/markuspisthier">Instagram</a> <br> <a href="https://www.facebook.com/markus.palli/">Facebook</a> <br> <a href="https://twitter.com/MarkusP02473765">Twitter</a>.</p>
 
-My mail<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="mark55us@outlook.de"> Email</a>.
+My mail<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="mark55us@outlook.de"> mark55us@outlook.de</a>.
 
 <p>Cheers!</p>
