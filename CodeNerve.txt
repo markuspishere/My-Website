@@ -1,9 +1,9 @@
-<span id="a">guest@voltoxderechte</span>:<span id="b">~</span><span id="c">$</span> cd home/markusp/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
+<span id="a">guest@voltoxderechte</span>:<span id="b">~</span><span id="c">$</span> cd home/voltoxtherealone/<!-- kjsdfhkjdhsfkjdshfkj -->About_Me
 <span id="a">guest@voltoxderechte</span>:<span id="b">~</span><span id="c">$</span> ls
 info.txt
 <span id="a">guest@voltoxderechte</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->info.txt
 Can't open use sudo
-<span id="a">guest@voltoxderechte</span>:<span id="b">~</span><span id="c">$</span> su <!-- kjsdfhkjdhsfkjdshfkj --><br/>
+<span id="a">guest@voltoxderechte</span>:<span id="b">~</span><span id="c">$</span> sudo su <!-- kjsdfhkjdhsfkjdshfkj --><br/>
 <span id="a">sudo@voltoxderechte</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->info.txt<br/><br/>
 Hey There! That's my Website<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Ye idk what should i say?</p>
 <p> User: Voltox Level: [Redacted] </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
